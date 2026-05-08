@@ -3,9 +3,9 @@
 :root {
   --cor-de-fundo: #6d2d54;
   --verde: #f504e9;
-  --branco: #ffffff;
-  --botao-ativo: #3a375e;
-  --botao-inativo: rgba(58, 55, 94, 0.5);
+  --branco: #f6cffa;
+  --botao-ativo: #f18ce1;
+  --botao-inativo: rgba(236, 117, 230, 0.5);
   --texto-fundo: rgba(58, 55, 94, 0.3);
 }
 
@@ -68,7 +68,7 @@ border-bottom: 4px solid var(--verde);
 .abas-textos{
    background-color: var(--texto-fundo);
    padding: 40px;
-   border-radius: 0 0 40px 40px;
+   border-radius: 0 0 20px 20px;
 }
 .aba-conteudo.ativo{
   display:block;
